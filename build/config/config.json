@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x50Cfc579b126F970bcbEb294dB5f3bF5E1dF9E79",
+  "SCAN_LINK": "https://polygonscan.com/token/0x50Cfc579b126F970bcbEb294dB5f3bF5E1dF9E79",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Walrus, Inc.",
+  "SYMBOL": "WI",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/walrusinc",
+  "SHOW_BACKGROUND": true
+}
